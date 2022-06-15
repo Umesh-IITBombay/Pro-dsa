@@ -22,7 +22,7 @@ int main(){
     int B[n];
     B[0]=23;
     for(int x:B){
-        cout<<x<<endl;
+        cout<<x<<;
     }
     return 0;
 }  
