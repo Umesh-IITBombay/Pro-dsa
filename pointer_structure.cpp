@@ -13,6 +13,6 @@ int main(){
 
     r.length=45;
     p -> length = 20;
-    cout<<"area of the rectangle: "<<r.length*r.breadth;
+    cout<<"area of the rectangle: "<<r.length*r.breadth << endl;
 
 }

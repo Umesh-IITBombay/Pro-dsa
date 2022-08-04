@@ -27,7 +27,7 @@ int main() {
     }
         
     if (is_prime)
-      cout << low << ", ";
+      cout << low << ", " << endl;
 
     ++low;
   }

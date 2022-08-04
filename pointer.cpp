@@ -12,7 +12,7 @@ int main(){
     cout << *p << endl;
     cout << p <<endl << &a << endl;
     q=A;
-    for(int i=0;i<10;i++){
+    for(int i=0;i<6;i++){
         cout << q[i] << endl;
     }
 } 
