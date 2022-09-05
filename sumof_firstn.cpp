@@ -11,7 +11,7 @@ int fun(int n){
 
 int main(){
     int p;
-    int r=10;
+    int r=3;
     p = fun(r);
     printf("%d\n",p);
     return 0;

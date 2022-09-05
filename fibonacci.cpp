@@ -16,6 +16,6 @@ int feb(int n){
 
 int main(){
     int p = 5;
-    feb(p);
+    printf("%d\n",feb(p));
     return 0;
-}    return 0;
+}
