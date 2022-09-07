@@ -22,7 +22,7 @@ int main(){
      
     q = new int[10];
     q = p;
-    for(int i=0;i<5; i++){
+    for(int i=0;i<10; i++){
         cout<<q[i]<<endl;
         //delete[] q;
     }
